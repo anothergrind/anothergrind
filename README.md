@@ -1,4 +1,33 @@
-## Hi there 👋
+# Hey, y'all I'm Kamsi
+
+I'm a Computer Science undergrad at UT Dallas working at the intersection of machine learning and software engineering research.
+
+## What I'm working on
+
+- **Quantum software engineering research** at UT Dallas: developing mutation testing techniques for quantum circuits as part of a benchmark for quantum program bugs (private until publication)
+- **AI/ML Fellow**: Break Through Tech, completing Cornell's Machine Learning Foundations curriculum
+- **Ignite Fellow**: AI4ALL, completing AI4ALL's applied AI curriculum
+- **Software Engineering Intern** at Atlassian, building workflow automation for Loom
+
+## Interests
+
+Machine Learning, AI for Quantum Computing, and Quantum Machine Learning
+I'm currently on the look out for graduate programs / research opportunities in these areas
+
+## Langauges
+
+Python · Java · TypeScript
+
+## Libraries
+
+scikit-learn · pandas · NumPy · Qiskit · React · Playwright · Docker
+
+
+## Reach me
+
+📧 kjo220000@utdallas.edu
+💼 [LinkedIn](https://linkedin.com/in/kamsiozorji)
+🌐 [Portfolio](https://anothergrind.github.io)
 
 <!--
 **anothergrind/anothergrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
