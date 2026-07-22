@@ -12,7 +12,7 @@ Currently I'm a Software Engineering Intern at Atlassian working on Loom
 
 ## Interests
 
-Machine Learning, AI for Quantum Computing, and Quantum Machine Learning
+Machine Learning, AI for Quantum Computing, and Quantum Machine Learning <br>
 I'm currently on the look out for graduate programs / research opportunities in these areas
 
 ## Langauges
