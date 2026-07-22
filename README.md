@@ -26,9 +26,9 @@ scikit-learn · pandas · NumPy · Qiskit · React · Playwright · Docker
 
 ## Reach me
 
-📧 kjo220000@utdallas.edu
-💼 [LinkedIn](https://linkedin.com/in/kamsiozorji)
-🌐 [Portfolio](https://anothergrind.github.io)
+📧 kjo220000@utdallas.edu <br>
+💼 [LinkedIn](https://linkedin.com/in/kamsiozorji) <br>
+🌐 [Portfolio](https://anothergrind.github.io) <br>
 
 <!--
 **anothergrind/anothergrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
