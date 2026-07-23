@@ -1,6 +1,6 @@
 # Hey, y'all I'm Kamsi 👋
 
-I'm a Computer Science undergrad at UT Dallas working at the intersection of quantum computing and software engineering research.
+I'm a Computer Science undergrad at UT Dallas researching at the intersection of quantum computing and software engineering.
 Currently I'm a Software Engineering Intern at Atlassian working on Loom
 
 ## What I'm working on
