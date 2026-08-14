@@ -4,8 +4,6 @@ I'm a Computer Science undergrad at UT Dallas researching at the intersection of
 Currently I'm a Software Engineering Intern at Atlassian working on Loom
 
 ## What I'm working on
-
-- **Software Engineering Intern** at Atlassian, building workflow automations for Loom
 - **Quantum Software Engineering** at UT Dallas: developing mutation testing techniques for quantum circuits as part of a benchmark for quantum program bugs (private until publication)
 - **AI/ML Fellow**: Break Through Tech, completing Cornell's Machine Learning Foundations curriculum
 - **Ignite Fellow**: AI4ALL, completing AI4ALL's applied AI curriculum
@@ -14,6 +12,8 @@ Currently I'm a Software Engineering Intern at Atlassian working on Loom
 
 Machine Learning, AI for Quantum Computing, and Quantum Machine Learning <br>
 I'm currently on the look out for graduate programs / research opportunities in these areas
+
+I'm also on the look for internships for summer 2027, preferably in AI/ML but still open to Software Engineering Roles
 
 ## Langauges
 
