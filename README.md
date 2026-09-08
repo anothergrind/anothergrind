@@ -1,6 +1,6 @@
-# Hey, y'all I'm Kamsi 👋
+# Hey, y'all I'm Kamsi
 
-I'm a Computer Science undergrad at UT Dallas researching at the intersection of quantum computing and software engineering.
+I'm a Computer Science undergraduate student at UT Dallas.
 
 
 ## What I'm working on
@@ -21,7 +21,7 @@ Python · Java · TypeScript
 
 ## Libraries
 
-scikit-learn · pandas · NumPy · Qiskit · React · Playwright · Docker
+scikit-learn · pandas · NumPy · Qiskit · React
 
 
 ## Reach me
