@@ -10,7 +10,7 @@ I'm a Computer Science undergraduate student at UT Dallas.
 
 ## Interests
 
-Machine Learning, AI for Quantum Computing, and Quantum Machine Learning <br>
+Machine Learning, AI for Quantum Computing, Software Engineering, and Quantum Machine Learning <br>
 I'm currently on the look out for graduate programs / research opportunities in these areas
 
 I'm also on the look for internships for summer 2027, preferably in AI/ML but still open to Software Engineering Roles
