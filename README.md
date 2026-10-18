@@ -6,7 +6,7 @@ I'm a Computer Science undergraduate student at UT Dallas.
 ## What I'm working on
 - **Quantum Software Engineering** at UT Dallas: developing mutation testing techniques for quantum circuits as part of a benchmark for quantum program bugs (private until publication)
 - **AI/ML Fellow**: Break Through Tech, working as an AI Fellow at Swytch
-- 
+
 ## Interests
 
 Machine Learning, AI for Quantum Computing, Software Engineering, and Quantum Machine Learning <br>
