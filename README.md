@@ -1,45 +1,54 @@
-# Hey, y'all I'm Kamsi
+<div align="center">
 
-I'm a Computer Science undergraduate student at UT Dallas.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=170&section=header&text=Hi%2C%20I'm%20Kamsi&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Undergraduate%20Researcher%20%C2%B7%20UT%20Dallas&descSize=17&descAlignY=60" alt="Hi, I'm Kamsi" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=620&lines=Quantum+Software+Engineering+Research;CS+%40+UT+Dallas+%C2%B7+Class+of+2027;Break+Through+Tech+AI%2FML+Fellow" alt="Typing intro" />
 
-## What I'm working on
-- **Quantum Software Engineering** at UT Dallas: developing mutation testing techniques for quantum circuits as part of a benchmark for quantum program bugs (private until publication)
-- **AI/ML Fellow**: Break Through Tech, working as an AI Fellow at Swytch
+<a href="https://linkedin.com/in/kamsiozorji"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kjo220000@utdallas.edu"><img src="https://img.shields.io/badge/Email-kjo220000%40utdallas.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://anothergrind.github.io"><img src="https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 
-## Interests
+<img src="https://komarev.com/ghpvc/?username=anothergrind&style=flat-square&color=70a5fd&label=Profile+views" alt="Profile views" />
 
-Machine Learning, AI for Quantum Computing, Software Engineering, and Quantum Machine Learning <br>
-I'm currently on the look out for graduate programs / research opportunities in these areas
+</div>
 
-I'm also on the look for internships for summer 2027, preferably in AI/ML but still open to Software Engineering Roles
+## About Me
 
-## Langauges
+I'm Kamsi, a Computer Science undergraduate at **UT Dallas** (graduating May 2027). I do quantum software engineering research, and I'm interested in quantum computing, software engineering, and machine learning. I'm currently looking for **Summer 2027 internships** and graduate research opportunities.
 
-Python · Java · TypeScript
+## Experience
 
-## Libraries
+**Undergraduate Researcher, Quantum Software Engineering** · *UT Dallas*
+- Developing mutation testing techniques for quantum circuits as part of a quantum program bug benchmark (private until publication)
 
-scikit-learn · pandas · NumPy · Qiskit · React
+**AI/ML Fellow** · *Break Through Tech*
+- **AI Studio:** worked with **Swytch** on a team machine learning project (see pinned repo)
 
+**Software Engineering Intern** · *Atlassian*
 
-## Reach me
+## Tech Stack
 
-📧 kjo220000@utdallas.edu <br>
-💼 [LinkedIn](https://linkedin.com/in/kamsiozorji) <br>
-🌐 [Portfolio](https://anothergrind.github.io) <br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,react,sklearn,git,github,vscode&perline=8" alt="Tech stack" />
+</p>
 
-<!--
-**anothergrind/anothergrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Libraries:** Qiskit · scikit-learn · pandas · NumPy · React
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anothergrind&theme=tokyonight&hide_border=true&border_radius=10" alt="Contribution streak" />
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" alt="footer" width="100%" />
+</div>
